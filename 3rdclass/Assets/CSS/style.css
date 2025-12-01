@@ -30,3 +30,30 @@ table {
     height: 20vh;
 
 }
+a:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    background-color: transparent;
+    text-decoration: dotted;
+}
+a:active{
+    color: yellow;
+    background-color: black;
+    text-decoration: underline;
+}
+a:visited{
+    color: red;
+    background-color: aliceblue;
+    text-decoration: line-through;
+}
+/* h1{
+    width: 100%;
+    text-align: center;
+} */
+.div{
+    align-items: center;
+}
