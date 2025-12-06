@@ -1,0 +1,13 @@
+
+table{
+    align-self: center;
+    border: 3px solid rgb(179, 34, 34);
+    border-collapse: collapse;
+    width: 80%;;
+}
+table tr td{
+    border: 3px solid rgb(179, 34, 34);
+    text-align: center;
+
+}
+
